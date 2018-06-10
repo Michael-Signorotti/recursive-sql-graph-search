@@ -1,11 +1,11 @@
 # SQL Graph Search Algorithms
 
-The following graph search algorithms in SQL are completed:
+This repository contains implementations of search algorithms in SQL. Specifically, using a hierarchical table structure, I have provided examples of recursive queries with the following objectives.
 
-* [x] Shortest path between nodes
+* [x] Finding the shortest path between nodes
 * [x] Determining if a connection exists between two nodes
 
-Postgres was used for development of these algorithms.
+Postgres was used for development of these queries.
 
 
 
